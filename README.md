@@ -23,7 +23,7 @@
 
 |용어|정의|
 |----|----|
-|`1. 이중순회 Target 쌍 찾기`|숫자 배열과 특정 수를 Argument로 전달, 특정수|
+|`1. 이중순회 Target 쌍 찾기`|Dual Traversal Target Pairs|
 
 
 <br>
