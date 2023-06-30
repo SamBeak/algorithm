@@ -12,9 +12,11 @@ const target = 13;
 const twoSum = (nums, target) => {
     for(let i=0; i < nums.length-1; i++){
         for(let j=i+1; j < nums.length; j++){
-            if(target == arr[i] + arr[j]){
+            if(target == nums[i] + nums[j]){
                 return [i, j];
             }
         }
     }
 };
+
+console.log(twoSum(nums,target));

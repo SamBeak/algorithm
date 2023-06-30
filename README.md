@@ -24,6 +24,7 @@
 |용어|정의|
 |----|----|
 |`1. 이중순회 Target 쌍 찾기`|Dual Traversal Target Pairs|
+|`2. 숫자뒤집기`|Number Revalsal|
 
 
 <br>
