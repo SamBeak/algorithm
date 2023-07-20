@@ -28,6 +28,7 @@
 |`3. 분모 분자 합 구하기`|SUM Denominators|
 |`4. 배열 두 배 만들기`|Double Array|
 |`5. 배열의 평균값`|Avg Array|
+|`6. 삼각형조건`|Triangle Condition|
 
 
 <br>
