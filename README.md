@@ -24,7 +24,10 @@
 |용어|정의|
 |----|----|
 |`1. 이중순회 Target 쌍 찾기`|Dual Traversal Target Pairs|
-|`2. 숫자뒤집기`|Number Revalsal|
+|`2. 숫자 뒤집기`|Number Revalsal|
+|`3. 분모 분자 합 구하기`|SUM Denominators|
+|`4. 배열 두 배 만들기`|Double Array|
+|`5. 배열의 평균값`|Avg Array|
 
 
 <br>
