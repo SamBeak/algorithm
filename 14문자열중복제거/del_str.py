@@ -4,7 +4,7 @@
 """
 
 def solution(my_string):
-    return "".join([value for idx, value in my_string if value not in my_string[:idx]])
+    return "".join([value for idx, value in enumerate(my_string) if value not in my_string[:idx]])
 
 """
 # 문자열 중복제거 (list comprehension을 이용)
